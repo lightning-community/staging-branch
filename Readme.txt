@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Staging branch of https://lightning-community.github.io/main/
 
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
+CSS Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
